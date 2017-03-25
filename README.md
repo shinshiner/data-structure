@@ -1,9 +1,10 @@
 # 数据结构
 这个项目实现了一些常用的基础数据结构
 ## 线性表
-### 栈
+### [栈](https://github.com/shinshiner/data-structure/tree/master/Stack)
 * 顺序栈
 * 链接栈
+* 双栈
 ### 队列
 * 顺序队列
 * 循环队列
@@ -16,6 +17,8 @@
 * 线段树
 * 二项树(伯努利树)
 ## 集合
-### 并查集
+### [并查集](https://github.com/shinshiner/data-structure/tree/master/Disjoint-Set)
 ## 图
-### 邻接表存储图
+### [邻接表存储图](https://github.com/shinshiner/data-structure/tree/master/Graph)
+## 杂项
+* [大整数](https://github.com/shinshiner/data-structure/blob/master/bigInt)
