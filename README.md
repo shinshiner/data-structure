@@ -21,4 +21,4 @@
 ## 图
 ### [邻接表存储图](https://github.com/shinshiner/data-structure/tree/master/Graph)
 ## 杂项
-* [大整数](https://github.com/shinshiner/data-structure/blob/master/bigInt)
+* [大整数](https://github.com/shinshiner/data-structure/blob/master/bigInt.hpp)
