@@ -2,9 +2,9 @@
 这个项目实现了一些常用的基础数据结构
 ## 线性表
 ### [栈](https://github.com/shinshiner/data-structure/tree/master/Stack)
-* 顺序栈
-* 链接栈
-* 双栈
+* [顺序栈](https://github.com/shinshiner/data-structure/blob/master/Stack/seqStack.hpp)
+* [链接栈](https://github.com/shinshiner/data-structure/blob/master/Stack/linkStack.hpp)
+* [双栈](https://github.com/shinshiner/data-structure/blob/master/Stack/doubleStack.hpp)
 ### 队列
 * 顺序队列
 * 循环队列
