@@ -67,7 +67,7 @@ bigInt operator+(const bigInt &r1, const bigInt &r2){
     return res;
 }
 
-bigInt operator-(const bigInt &r1, const bigInt &r2){  //保证r1>r2
+bigInt operator-(const bigInt &r1, const bigInt &r2){  //保证r1 > r2
     int n=r2.size, k=0, tmp, i;  //k表示退位,tmp暂存逐位相减的结果
     bigInt res;
 
