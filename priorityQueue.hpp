@@ -8,7 +8,7 @@ private:
     void buildHeap();
     void percolateDown(int hole);
 public:
-    priorityQueue(int capacity=100)
+    priorityQueue(int capacity = 100)
         {array = new Type[capacity]; maxSize = capacity; currentSize = 0;}
     priorityQueue(const Type *items, int size);
     ~priorityQueue() {delete []array;}
