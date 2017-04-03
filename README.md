@@ -11,7 +11,7 @@
 * 双端队列
 * 优先级队列(堆实现)
 ### [树状数组](https://github.com/shinshiner/data-structure/tree/master/Binary-Indexed-Tree)
-### 跳表
+### [跳表](https://github.com/shinshiner/data-structure/blob/master/skipList.hpp)
 ## 树
 * 伸展树
 * 线段树
