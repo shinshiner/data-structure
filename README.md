@@ -9,13 +9,13 @@
 * 顺序队列
 * 循环队列
 * 双端队列
-* 优先级队列(堆实现)
+* 优先级队列（堆实现）
 ### [树状数组](https://github.com/shinshiner/data-structure/tree/master/Binary-Indexed-Tree)
 ### [跳表](https://github.com/shinshiner/data-structure/blob/master/skipList.hpp)
 ## 树
 * 伸展树
 * 线段树
-* 二项树(伯努利树)
+* 二项树（伯努利树）
 ## 集合
 ### [并查集](https://github.com/shinshiner/data-structure/tree/master/Disjoint-Set)
 ## 图
